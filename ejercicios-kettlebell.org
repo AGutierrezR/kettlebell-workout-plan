@@ -1,0 +1,139 @@
+#+TITLE: Ejercicios con Kettlebell por categoría
+#+FILETAGS: :kettlebell:ejercicios:
+
+# Elegir UNO por categoría y mantenerlo las 8 semanas.
+# Organizado por número de KB. Solo tienes UNA -> todo lo de "1 KB" te sirve.
+# Marca (Recomendado) = las que mejor encajan con el programa.
+# Escala: [Principiante] [Intermedio] [Avanzado]
+
+* Squad (dominante de rodilla)
+** 1 KB
+- Goblet squat (Recomendado) [Principiante]
+KB al pecho con ambas manos. Ideal para empezar.
+- Single KB front squat / rack squat (Recomendado) [Intermedio]
+KB en posición de rack a un lado.
+- Bulgarian split squat (KB en rack) (Recomendado) [Intermedio]
+- KB reverse lunge [Principiante]
+- KB walking lunge [Intermedio]
+- KB pistol squat (KB como contrapeso) [Avanzado]
+- KB Zercher squat (KB en el pliegue del codo) [Avanzado]
+- Cossack squat [Avanzado]
+
+** 2 KB
+- Double KB front squat [Intermedio]
+- Double KB Bulgarian split squat [Avanzado]
+
+* Press (empuje)
+** 1 KB
+- KB military press (Recomendado) [Intermedio]
+- KB push press [Intermedio]
+- KB floor press (Recomendado si no hay banco) [Principiante]
+- KB bench/incline press [Intermedio]
+- KB z-press (sentado en el suelo) [Avanzado]
+- KB bottoms-up press [Avanzado]
+- KB jerk [Avanzado]
+
+** 2 KB
+- Double KB military press (Recomendado) [Intermedio]
+- Double KB seesaw press (alternado) [Intermedio]
+- Double KB push press [Avanzado]
+- Double KB floor/bench press [Intermedio]
+
+* Pull (tirón)
+** 1 KB
+- KB single-arm bent over row (Recomendado) [Principiante]
+- KB gorilla row (desde sumo) [Intermedio]
+- KB renegade row (en plancha) [Avanzado]
+- KB upright row [Intermedio]
+- KB high pull [Intermedio]
+- KB lat pullover (tumbado) [Intermedio]
+- Pull ups / chin ups (añadir lastre con KB) [Intermedio/Avanzado]
+- KB band-assisted pull up [Principiante]
+
+** 2 KB
+- Double KB bent over row (Recomendado) [Intermedio]
+- Double KB upright row [Intermedio]
+
+* Hinge (dominante de cadera)
+** 1 KB
+- KB deadlift (Recomendado) [Principiante]
+- KB Romanian deadlift (RDL) (Recomendado) [Intermedio]
+- KB single leg deadlift [Intermedio]
+- KB swing (ruso/americano) [Intermedio]
+Nota: balístico -> también sirve como conditioning.
+- KB clean (from floor o hang) [Intermedio]
+- KB snatch [Avanzado]
+- KB high pull [Intermedio]
+- KB sumo deadlift [Principiante]
+- KB good morning [Intermedio]
+- KB hip thrust (KB sobre la cadera) [Principiante]
+** 2 KB
+
+- Double KB deadlift (Recomendado) [Intermedio]
+- Double KB Romanian deadlift [Intermedio]
+- Double KB swing [Intermedio]
+- Double KB clean [Avanzado]
+
+* Curl (bíceps / braquial)
+** 1 KB
+- KB hammer curl (Recomendado) [Principiante]
+- KB single-arm curl [Principiante]
+- KB concentration curl [Principiante]
+- KB preacher curl [Intermedio]
+- KB Zottman curl (sube normal, baja en pronación) [Intermedio]
+- KB offset curl (agarrar descentrado) [Avanzado]
+- KB bottoms-up curl [Avanzado]
+
+** 2 KB
+- Double KB hammer curl [Intermedio]
+- Double KB curl [Intermedio]
+
+* Tríceps (accesorio adicional)                              :extras:
+# El programa NO trae slot de tríceps, pero SÍ reciben trabajo
+# indirecto en: Press, Push Up (a máximas) y Dips.
+# Si quieres trabajo DIRECTO, añádelo al final de la sesión.
+** 1 KBKB overhead triceps extension
+- KB overhead triceps extension (una mano) (Recomendado) [Principiante]
+- KB overhead extension a dos manos (un KB, ambas manos) [Principiante]
+- KB skullcrusher (tumbado) [Intermedio]
+- KB triceps kickback [Principiante]
+- KB close-grip floor press [Intermedio]
+- KB JM press [Avanzado]
+- Dips (con KB colgado al cinturón para lastre) [Avanzado]
+
+** 2 KB
+- Double KB overhead extension [Intermedio]
+- Double KB skullcrusher [Avanzado]
+- Double KB kickback [Intermedio]
+
+** Cómo añadirlo sin romper el plan
+- Colócalo al FINAL de la sesión, como accesorio (igual que el curl).
+- Volumen: 2-3 series x 10-15 reps, cerca del fallo técnico.
+- Progressalo igual que el resto (mantén el mismo ejercicio
+durante el bloque; varíalo el siguiente ciclo).
+- No lo pongas antes de Press/Push Up: te restaría en lo importante.
+
+* ¿Se pueden variar los ejercicios entre sesiones?           :faq:
+# NO según el programa. Ver más abajo el criterio y la excepción.
+- El artículo es explícito: elegir UN ejercicio por categoría y
+MANTENERLO las 8 semanas completas.
+- Motivo: la variedad entrena el hábito y la aleatoriedad del estímulo,
+no la fuerza. La consistencia permite SOBRECARGA progresiva real:
+si cada sesión cambias el movimiento, no sabes qué progresó ni
+qué peso usar la próxima vez.
+- Por tanto: Goblet Squat el lunes y Single KB front squat el
+miércoles = NO ideal. Sería mezclar dos patrones distintos.
+- Variar en la misma sesión por lado SÍ es válido (unilateral):
+p.ej. goblet -> 3x10; no hagas pierna izq goblet y der front.
+- Excepción razonable: mover un ejercicio a su PROGRESIÓN (mismo
+patrón, más difícil) dentro del mismo bloque si ya lo dominas.
+Ej: goblet -> single rack si la goblet se quedó corta de peso.
+Pero mantenlo, no lo alternes sesión a sesión.
+- Regla práctica: cambia de ejercicio entre ciclos de 8 semanas,
+no dentro de la semana.
+
+* Notas prácticas
+- Con UNA KB el salto de peso es grande: progresa con tempo lento,
+pausas, unilateral o bottoms-up.
+- Trabajo unilateral (1 KB) = más estímulo por lado y equilibra la carga.
+- Si el peso se queda corto en 2 KB... no aplica: solo tienes una.
