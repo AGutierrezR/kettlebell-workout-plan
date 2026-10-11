@@ -1,33 +1,56 @@
-#+TITLE: Días libres (sin entrenamiento de fuerza)
+#+TITLE: Días libres / reparto semanal
 #+FILETAGS: :kettlebell:recuperacion:
 
-# El plan es L / Mi / V (o M / J / S) para fuerza.
-# Martes y Jueves quedan libres, más el fin de semana.
+# Fuerza: L / Mi / V (o M / J / S).
+# Conditioning: máximo 1-2x/semana (3 solo si eres avanzado y recuperas bien).
+# Evitar acumular 5 días duros seguidos.
 
 * Todos los días (obligatorio)
 - Caminata rápida de 20-60 min.
 - Estiramientos / movilidad.
 
-* Martes y Jueves (días no consecutivos al entrenamiento)
-- Opción 1 — Acondicionamiento separado:
-  - Un día complejo de KB (ver [[file:condicionamiento.org]]).
-  - Otro día sprints o intervalos.
-- Opción 2 — Recuperación activa:
-  - Caminata larga.
-  - Movilidad / estiramiento extenso.
-  - Yoga o foam rolling.
-- Opción 3 — Deporte / arte marcial.
+* Reglas de reparto
+- Conditioning recomendado: 1-2x/semana (hasta 2-3, no más).
+- No encadenar 5 días duros (L-Mi-V fuerza + Ma-Ju conditioning = 5 seguidos).
+- Deja al menos un día de descanso total a la semana (domingo).
+- Prioridad: que TODO el plan semanal se cumpla, no el día exacto.
 
-* Fin de semana
-- Si haces 2x/semana de fuerza: añadir 1 día de acondicionamiento
-  el fin de semana para mantener actividad general.
-- Deporte recreativo, caminata larga, o descanso total si lo necesitas.
+* Plantilla recomendada (3 fuerza + 2 conditioning)
+| Día       | Sesión                                        |
+|-----------+-----------------------------------------------|
+| Lunes     | Fuerza                                        |
+| Martes    | Conditioning (complejo KB)                    |
+| Miércoles | Fuerza                                        |
+| Jueves    | Ligero (caminata / movilidad)                 |
+| Viernes   | Fuerza                                        |
+| Sábado    | Conditioning (sprints o complejo)             |
+| Domingo   | Descanso total                                |
 
-* Nada de esto obligatorio el día libre
-- Prioridad: que TODO el plan semanal se cumpla,
-  no el día exacto en que se hace.
-- El descanso real también es parte de la recuperación.
+# Ventaja: reparte la carga y evita 5 días duros consecutivos.
+
+* Alternativas
+** Si quieres Ma + Ju de conditioning (5 días seguidos)
+- Posible, pero es el tope del rango y acumula fatiga.
+- Solo si duermes bien, comes suficiente y la fuerza no se estanca.
+- El sábado entonces déjalo ligero (caminata/deporte), no otro complejo.
+
+** Si haces fuerza 2x/semana (principiante)
+| Día    | Sesión                            |
+|--------+-----------------------------------|
+| Lunes  | Fuerza                            |
+| Martes | Conditioning (complejo KB)        |
+| Jueves | Fuerza                            |
+| Sábado | Conditioning (sprints/complejo)   |
+| resto  | Caminata / movilidad / descanso   |
+
+** Día de conditioning suave (recuperación activa)
+ - Un día complejo de KB (ver [[file:condicionamiento.org]]).
+ - Otro día sprints o intervalos.
+ - O caminata larga, movilidad extensa, yoga, foam rolling.
+ - O deporte / arte marcial.
 
 * Recordatorio de intensidad
 - Los días libres NO deben convertir la semana en sobreentrenamiento.
-- Si la fuerza se estanca o el sueño empeora -> bajar el conditioning.
+- Señales para bajar a 1x/semana de conditioning:
+  fuerza estancada, mal sueño, articulaciones doloridas, FC en reposo alta.
+- El descanso real también es parte de la recuperación.
