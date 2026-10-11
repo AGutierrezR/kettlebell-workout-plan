@@ -1,0 +1,80 @@
+#+TITLE: The Bare Flynnimum — Programa de Fuerza (Semanas 1-8)
+#+FILETAGS: :kettlebell:fuerza:
+
+# Orden de ejecución: Squat -> Press -> Push Up -> Hinge -> Pull -> Curl
+# Intensidad: 2-3 reps del fallo técnico en TODAS las series.
+# Push Up siempre a máximas reps (2 series).
+# Abs = bono/opcional (ver bloque de abs al final).
+
+* Semanas 1-2
+| Ejercicio | Series x Reps |
+|-----------+---------------|
+| Squat     | 3 x 10        |
+| Press     | 3 x 10        |
+| Push Up   | 2 x max       |
+| Hinge     | 3 x 10        |
+| Pull      | 3 x 10        |
+| Curl      | 3 x 10        |
+
+- Peso: no más de 12 reps posibles sin romper técnica.
+- Abs: ver [[#abs][bloque de Abs]].
+
+* Semanas 3-4
+| Ejercicio | Series x Reps |
+|-----------+---------------|
+| Squat     | 3 x 12        |
+| Press     | 3 x 12        |
+| Push Up   | 2 x max       |
+| Hinge     | 3 x 12        |
+| Pull      | 3 x 12        |
+| Curl      | 3 x 12        |
+
+- Misma intensidad: 2-3 reps del fallo técnico.
+
+* Semana 5
+| Ejercicio | Series x Reps |
+|-----------+---------------|
+| Squat     | 4 x 10        |
+| Press     | 4 x 10        |
+| Push Up   | 2 x max       |
+| Hinge     | 4 x 10        |
+| Pull      | 4 x 10        |
+| Curl      | 3 x 10        |
+
+- Nota: Curl baja a 3 series.
+
+* Semana 6 — De-Load
+- Igual que la Semana 1 pero con la MITAD del volumen total.
+- Reducir a la mitad TODAS las series. Si es impar, redondear hacia abajo.
+- SIN acondicionamiento y SIN abs esta semana.
+
+* Semanas 7-8
+| Ejercicio | Series x Reps |
+|-----------+---------------|
+| Squat     | 4 x 12        |
+| Press     | 4 x 12        |
+| Push Up   | 2 x max       |
+| Hinge     | 4 x 12        |
+| Pull      | 4 x 12        |
+| Curl      | 3 x 12        |
+
+- Intensidad: 2-3 reps del fallo técnico.
+
+* Adjustes para principiantes
+- Hacer la rutina 2x/semana en vez de 3x/semana.
+- Alternativa (o adicional): bajar una serie a cada levantamiento
+  (2 series en vez de 3).
+- Mantener la intensidad prescrita.
+
+* Abs (bono / opcional)                                             :abs:
+# Progresión semanal del trabajo de abdomen.
+| Semanas | Ab Wheel        | Hollow hold / plank |
+|---------+-----------------+---------------------|
+| 1-2     | 2 x 5-10 reps   | 2 x 30 s            |
+| 3-5     | 3 x 5-10 reps   | 3 x 40 s            |
+| 5       | 3 x 5-10 reps   | 3 x 40-60 s         |
+| 6       | — (de-load)     | — (de-load)         |
+| 7-8     | 3 x 5-10 reps   | 3 x 60 s            |
+
+- Ab wheel video: https://www.youtube.com/shorts/PuBs6tN8QPo
+- Hollow hold:  https://www.youtube.com/shorts/XnDAJbQAePc

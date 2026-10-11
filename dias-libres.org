@@ -1,0 +1,33 @@
+#+TITLE: Días libres (sin entrenamiento de fuerza)
+#+FILETAGS: :kettlebell:recuperacion:
+
+# El plan es L / Mi / V (o M / J / S) para fuerza.
+# Martes y Jueves quedan libres, más el fin de semana.
+
+* Todos los días (obligatorio)
+- Caminata rápida de 20-60 min.
+- Estiramientos / movilidad.
+
+* Martes y Jueves (días no consecutivos al entrenamiento)
+- Opción 1 — Acondicionamiento separado:
+  - Un día complejo de KB (ver [[file:condicionamiento.org]]).
+  - Otro día sprints o intervalos.
+- Opción 2 — Recuperación activa:
+  - Caminata larga.
+  - Movilidad / estiramiento extenso.
+  - Yoga o foam rolling.
+- Opción 3 — Deporte / arte marcial.
+
+* Fin de semana
+- Si haces 2x/semana de fuerza: añadir 1 día de acondicionamiento
+  el fin de semana para mantener actividad general.
+- Deporte recreativo, caminata larga, o descanso total si lo necesitas.
+
+* Nada de esto obligatorio el día libre
+- Prioridad: que TODO el plan semanal se cumpla,
+  no el día exacto en que se hace.
+- El descanso real también es parte de la recuperación.
+
+* Recordatorio de intensidad
+- Los días libres NO deben convertir la semana en sobreentrenamiento.
+- Si la fuerza se estanca o el sueño empeora -> bajar el conditioning.

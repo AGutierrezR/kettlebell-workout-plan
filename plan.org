@@ -1,0 +1,74 @@
+#+TITLE: The Bare Flynnimum (Patrick Flynn) — Plan Base
+#+AUTHOR: Resumen personal
+#+FILETAGS: :kettlebell:fitness:
+#+STARTUP: overview
+
+* Principios fundamentales
+- Caminar todos los días.
+- Estirar todos los días.
+- Entrenamiento de fuerza 2-4x/semana, cerca del fallo, con levantamientos compuestos grandes.
+- Sudar y quedar sin aire 1-2x/semana con sprints, complejos o deportes.
+- Evitar drogas, alcohol y la dieta estándar americana.
+- Comer comida cercana a la naturaleza y ~1 g de proteína por libra de peso objetivo.
+- Dormir bien, cuarto frío y oscuro.
+- Ayuno intermitente / ciclado de calorías o carbos.
+- Manejar el estrés sin engordarse (artes marciales, música, etc.).
+
+# Especificar menos, dominar más: volumen e intensidad importan
+# más que la frecuencia o selección de ejercicios.
+
+* Estructura del programa
+- Frecuencia: 2-3x/semana.
+  - Principiante: 2x/semana.
+  - Avanzado: 3x/semana.
+- Días recomendados (no consecutivos):
+  - 3x/semana -> Lunes, Miércoles, Viernes  (o Martes, Jueves, Sábado)
+  - 2x/semana -> Lunes, Jueves  (+ 1 día de acondicionamiento el fin de semana)
+- Cada sesión = Fuerza + Acondicionamiento + Abs (opcional).
+- El acondicionamiento puede ir:
+  - Inmediatamente después del entrenamiento de fuerza, o
+  - En días separados.
+- Caminata diaria de 20-60 min (ritmo rápido).
+
+* Archivos
+- [[file:entrenamiento-fuerza.org][Entrenamiento de fuerza (semanas 1-8)]]
+- [[file:condicionamiento.org][Acondicionamiento / Conditioning]]
+- [[file:dias-libres.org][Días libres / actividades de descanso]]
+
+* Selección de ejercicios
+# Elegir UNO por categoría y mantenerlo las 8 semanas.
+| Categoría | Opciones                                                        |
+|-----------+-----------------------------------------------------------------|
+| Squat     | Front squat, Back squat, Bulgarian split squat                  |
+| Press     | Barbell bench, DB bench (flat/incline/decline), KB military press, Dips |
+| Pull      | Pull ups, Chin ups, Lat pulldowns, Bent over row                |
+| Hinge     | Deadlift, Trap bar deadlift, Single leg deadlift                |
+| Curl      | Preacher, Concentration, Hammer, Cable curl                     |
+
+* Intensidad (clave)
+- Trabajar cerca del fallo técnico: dentro de 2-3 reps del fallo.
+- Fallo técnico = la técnica empieza a fallar (velocidad de rep baja,
+  patrones compensatorios, etc.).
+- Semanas 1-2: peso con el que puedes hacer NO MÁS de 12 reps
+  sin que la técnica se rompa.
+- No ir ligero: si no cuesta, no da resultado.
+
+* Calentamiento (antes de cada sesión)
+1. 3-4 rondas de movilidad (20 s cada una):
+   - Rocking with knees down
+   - Rocking with knees up
+   - T-spine rotations
+   - (video: https://www.youtube.com/shorts/JKy9Uryq5Cw)
+2. 5-10 min de cardio ligero (cuerda, trotar).
+3. 2-3 series ligeras del ejercicio del día para preparar.
+
+* Nutrición (acompañante)
+- Ganar fuerza/músculo: superávit de 300-500 kcal/día.
+- Pérdida de grasa / recomposición:
+  - 5 días consecutivos con 10-20% por debajo del mantenimiento.
+  - 2 días consecutivos de "re-feed" (comer a mantenimiento o un poco más).
+  - https://www.calculator.net/bmr-calculator.html
+
+* Progresión entre ciclos
+- Correr 8 semanas -> de-load -> repetir.
+- Segundo ciclo: cambiar ejercicios y/o subir peso.

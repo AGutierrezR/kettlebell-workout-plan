@@ -1,0 +1,49 @@
+#+TITLE: Acondicionamiento / Conditioning
+#+FILETAGS: :kettlebell:conditioning:
+
+# Objetivo: sudar y quedar sin aire 1-2x/semana.
+# El acondicionamiento se BENEFICIA de la variedad.
+# La fuerza/músculo se benefician de la consistencia (no variar el programa).
+
+* Dónde encajan en el plan
+- Se puede hacer:
+  1. Inmediatamente DESPUÉS de la sesión de fuerza, o
+  2. En días SEPARADOS.
+- En la semana 6 (de-load): SIN acondicionamiento.
+
+* Fórmula simple del autor
+# Una vez por semana: un complejo de kettlebell al azar.
+# Otro día: sprints o intervalos.
+
+** Opción A — Complejo de kettlebell (1x/semana)**
+- Tomar UN complejo al azar del canal de YouTube:
+  - https://www.youtube.com/channel/UCliL6FJ7eDQSwyfDE2AfE-Q
+  - Ideal: serie "Kettlebell Workout of the Week".
+- Alternativa básica si no hay KB: usar mancuernas (funcionan igual).
+
+** Opción B — Sprints o intervalos (1x/semana)**
+- Sprints: 4-6 rondas, preferiblemente cuesta arriba.
+- Intervalos (running):
+  - 10 s sprint
+  - 2 min caminata
+  - 2 min trote
+  - repetir 15-30 min.
+
+* Sustitutos válidos
+- Artes marciales.
+- Deporte recreativo.
+
+* Ubicación sugerida en la semana (3x fuerza: L/Mi/V)
+- Lunes    -> Fuerza
+- Martes   -> (opcional) Complejo KB / movilidad
+- Miércoles-> Fuerza
+- Jueves   -> Sprints / intervalos
+- Viernes  -> Fuerza
+- Sáb/Dom  -> Caminata larga / deporte (opcional)
+
+* Ubicación sugerida en la semana (2x fuerza: L/J)
+- Lunes    -> Fuerza
+- Martes   -> Complejo KB
+- Miércoles-> Caminata / movilidad
+- Jueves   -> Fuerza
+- Sábado   -> Sprints / intervalos (fin de semana activo)
