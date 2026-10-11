@@ -15,13 +15,13 @@
 # Una vez por semana: un complejo de kettlebell al azar.
 # Otro día: sprints o intervalos.
 
-** Opción A — Complejo de kettlebell (1x/semana)**
+** Opción A — Complejo de kettlebell (1x/semana)
 - Tomar UN complejo al azar del canal de YouTube:
   - https://www.youtube.com/channel/UCliL6FJ7eDQSwyfDE2AfE-Q
   - Ideal: serie "Kettlebell Workout of the Week".
 - Alternativa básica si no hay KB: usar mancuernas (funcionan igual).
 
-** Opción B — Sprints o intervalos (1x/semana)**
+** Opción B — Sprints o intervalos (1x/semana)
 - Sprints: 4-6 rondas, preferiblemente cuesta arriba.
 - Intervalos (running):
   - 10 s sprint
@@ -47,3 +47,156 @@
 - Miércoles-> Caminata / movilidad
 - Jueves   -> Fuerza
 - Sábado   -> Sprints / intervalos (fin de semana activo)
+
+* Complejos aptos para 1 KB (de "Racked and Loaded" de Pat Flynn)
+  # La mayoría de "Want to Go Heavy" (46-74)
+  # y varios otros requieren DOS kettlebells. Abajo solo los que funcionan
+  # con UNA sola KB, con su video de YouTube.
+  # Regla general: 15 min en el reloj, AMRAP con BUENA técnica.
+  # Elige uno por semana -> encaja como "Opción A" del plan.
+
+** Sección "Want to Sweat" (cortos, ideales para conditioning semanal)
+- The Fat Crusher! :: swing 1 mano / snatch / press / racked front squat — rotación (x3 rotando entre los 4 movs), AMRAP 15'.
+  [[https://www.youtube.com/watch?v=F1euDg10Xwg][video]]
+- Kettlebell Quad Burner :: start-stop swings + goblet squat ladder.
+  [[https://youtu.be/AXEQ2pMxNRU][video]]
+- Fast 5 :: swing / snatch / press / goblet squat / reverse lunge — AMRAP 10-15'.
+  [[https://www.youtube.com/watch?v=fbVrNMjmPl4][video]]
+- The Body Changer :: snatch x5 / press x2 / squat x4 / row x3 — AMRAP 15-20'.
+  [[https://www.youtube.com/watch?v=w5Ja3pQWyok][video]]
+- Single Sequential Dismay :: cleans + racked front squats (8/5, 5/3, 3/2, 2/1).
+  [[https://www.youtube.com/watch?v=pyqRD3UMq-k][video]]
+- Snatch-O-Rama :: snatch (cadencia cada 10 s + burn set).
+  [[https://www.youtube.com/watch?v=3mxjriUIGq4][video]]
+- High Intensity :: swing / racked goblet / press / row unilateral — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=er87ZuzUwWY][video]]
+- The 15-5-3 Kettlebell Workout :: swings x15 / goblet x5 / crush push up x3 — 5 rondas.
+  [[https://www.youtube.com/watch?v=2njcXkVzXMc][video]]
+- Burn It Up! :: 100 snatches en <3 min (KB ligera). Video no disponible:
+  https://www.youtube.com/watch?v=7Wd7Av88q-k
+- The Ol' Snatch 'n' Squat :: ladder de snatch (o swing a 1 mano) 1-10 + 2 goblet squats entre cada escalón. Sin video.
+# Los siguientes están en la sección "Want to Sweat" pero piden 2 KB:
+- You Vs. The Double Clean and Press :: 8 clean and press, 8 series, descanso <1 min.
+- An Ode to Swings and Push Ups :: ladder 2 swings/1 push-up, 4/2, 6/3, 8/4, 10/5 — AMRAP 15'.
+- The Power Bomb :: 5 power snatches cada minuto, durante 10 min.
+- The Kettlebell Ruckus Maker :: double clean and push up x20 s + rack hold x10 s; 4 min continuos, 2-3 rondas.
+
+** Sección "Only Have One Bell" (perfectos para 1 KB)
+- Start-Stop Kettlebell Swing Ladder :: ladder 1-5.
+  [[https://www.youtube.com/watch?v=nNNG5m7yu3Y][video]]
+- Triple Threat :: swing 1 mano / staggered squat / military press — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=TU4EvrbS0WM][video]]
+- The Ghost :: swing 1 mano / staggered squat / military press — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=2Rq-pa9-4IA][video]]
+- The Revolver :: swing 1 mano / clean / squat thrust — 5 rondas/lado.
+  [[https://www.youtube.com/watch?v=QykfPEiPvMA][video]]
+- Single Arm Blitz :: swing / clean and press / snatch / racked front squat — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=xdNv4qWw52I][video]]
+- Quintuplets :: swing / clean / press / snatch / racked front squat — 5 rondas/lado.
+  [[https://www.youtube.com/watch?v=PAxLPm98WxA][video]]
+- Booster Shot #2 :: swings x10 / goblet x5 / push-ups x5 — 3-5 rondas.
+  [[https://www.youtube.com/watch?v=zpyIrAYLQ10][video]]
+- Swings + Push Ups :: swings x10 / push-ups x10 — 10 rondas.
+  [[https://www.youtube.com/watch?v=3A5RT3rUNbg][video]]
+- The Basics :: swing 1 mano / snatch / clean and press — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=c-YK6ma8a-M][video]]
+- Swing and Squat Ladder :: swings x10 + goblet squat ladder 10->1.
+  [[https://www.youtube.com/watch?v=PjRDNaMJw6g][video]]
+- Snatch Technique KWOW :: ladder ascendente de snatches; reinicia si falla la forma.
+  [[https://www.youtube.com/watch?v=AAh0_7DujBk][video]]
+- 9 Minute Kettlebell Workout from Hell! :: 9 movimientos x30 s (swing/clean/snatch/press/...).
+  [[https://www.youtube.com/watch?v=6nAuXesf8JU][video]]
+- Descent into Pain :: swing / goblet / crush curl / crush push up — ladder 10->1.
+  [[https://www.youtube.com/watch?v=L-WQ2boSY9c][video]]
+- Kettlebell Inferno :: swing / swing 1 mano / snatch / thruster / row / push up — ladder 2→10→2.
+  [[https://www.youtube.com/watch?v=zLw96oY9XcM][video]]
+- The Quick Hard Hitter :: swing / clean and press / snatch / racked goblet squat — 5 rondas/lado.
+  [[https://www.youtube.com/watch?v=7CF3agtZebM][video]]
+- Super Snatchtastic :: swings x10 + snatches x5/lado — 10 rondas.
+  [[https://www.youtube.com/watch?v=NG-PB9Eg8F0][video]]
+- Fresh Off the Yacht :: swing / clean / snatch / jerk / reverse lunge — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=vGOVPSLYj0g][video]]
+- The Hellion :: swings 2 manos / swings 1 mano / thrusters — ladder 2→10→2.
+  [[https://www.youtube.com/watch?v=paXhontNWyw][video]]
+- The Fat Squealer! :: swing / clean / snatch / press / squat — 1 rep c/u x3-5.
+(sin video YouTube; demo en https://www.chroniclesofstrength.com/3-quick-fat-smashing-kettlebell-workouts/)
+- Swings and Hollow Holds! :: swings 30 s + hollow hold 30 s — 5 rondas.
+(sin video YouTube; demo en https://www.chroniclesofstrength.com/3-quick-fat-smashing-kettlebell-workouts/)
+- A Fun Sweater :: swings x15 / goblet squat x5 / military press x3 por brazo — 5 rondas o AMRAP 15'. Sin video.
+- Minutes of Fun :: min 1 swing 1 mano x8 (der), min 2 Turkish get up x1 (der), min 3 swing x8 (izq), min 4 TGU x1 (izq); repetir 12-20'. Sin video.
+- High Voltage/Sprints :: swing 1 mano / clean / high pull / press / snatch x5 c/u + 50 m sprint; por lado, 2-3 rondas (2 KB en el libro).
+
+** Otros de 1 KB fuera de esas secciones
+- Like Budda' :: swing 1 mano / clean / snatch / overhead lunge / press — 5 ciclos/lado.
+  [[https://www.youtube.com/watch?v=wY7JTXvog0k][video]]
+- The Seductive Leopard Crawl :: swing / clean and press / snatch / front squat / crawl — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=F31FJC_HpGU][video]]
+- A Get Up for Good Measure :: swing / clean / snatch / reverse TGU — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=qM2ETtjfbB8][video]]
+- A Vulgar Display of Tasty Discomfort :: swing 1 mano / clean and press / snatch / windmill / reverse lunge.
+  [[https://www.youtube.com/watch?v=0KmY1Pd_l0k][video]]
+- Get Up Graffiti :: secuencia encadenada de Turkish get-ups (mejor verse en video). Video no disponible:
+  https://www.youtube.com/watch?v=3sGqB-Hf5m8
+- The Pressing Get Up :: press en cada paso del Turkish get-up — AMRAP 15'.
+  [[https://www.youtube.com/watch?v=hnIC8kKzi7s][video]]
+- The Snatcharoo :: 1 snatch + 1 paso — 15'. Video no disponible:
+  https://www.youtube.com/watch?v=DI4JA_Y0idQ
+- A Kettlebell Love/Hate Favorite :: 1 Turkish get up + 5 snatches — 10-20 rondas.
+  (Gianna Bandoni, en https://www.giannafit.com/)
+- The Brutalizer :: double unders x20 / swings x15 / goblet squat ladder 10->1 y de vuelta / push-up ladder 10->1 y de vuelta. Sin video.
+- 100 Heavy as Hell Swing Challenge :: 100 swings con KB pesada (2x tu peso normal), en 5x20 o 10x10. Sin video.
+
+** Están en "Want to Go Heavy" pero son de 1 KB
+- C + P :: clean and press por lado (5/5, 3/3, 1/1) — 5 rondas.
+  [[https://www.youtube.com/watch?v=Kd1n5pYgalk][video]]
+- Press-o-mania :: jerks (o push press) bajando a military press / lado x 5.
+  Video no disponible: https://www.youtube.com/watch?v=Knd1C_4ueCc
+
+** NO puedes hacerlos con una sola KB (requieren 2 KB)
+- 8 You Vs. The Double Clean and Press; 9 An Ode to Swings and Push Ups (adaptable a 1 KB);
+- 11 The Power Bomb; 15 The Ruckus Maker; 36 High Voltage/Sprints (movimientos unilaterales, adaptable);
+- 46-74 sección "Want to Go Heavy" (salvo 52 y 67, ver arriba);
+- 82 Weight of the World; 84 Clean and Jerk Max Out; 86 Better with a Friend (2 KB + partner).
+
+** Cómo elegirlo cada semana
+- Semana corta de tiempo -> uno "corto" (Fast 5, The Basics, The 15-5-3, Booster Shot #2).
+- Quieres intensidad máxima -> Kettlebell Inferno, 9 Minute Kettlebell Workout from Hell!, Descent into Pain.
+- Día más suave/movilidad -> Swings and Hollow Holds, Get-Up ones, Snatcharoo.
+- Máximo 2-3x/semana y 15-20 min (evitar sobreentrenamiento).
+
+* Glosario                                                       :glosario:
+- Complejo (kettlebell complex) :: Serie de ejercicios encadenados con poco o ningún
+  descanso entre ellos. Trabaja varios grupos musculares y sistemas energéticos a la vez.
+- AMRAP :: "As Many Rounds/Reps As Possible" — tantas rondas o reps como puedas en el
+  tiempo dado, con buena técnica.
+- Ladder (escalera) :: Subir (o bajar) las reps de forma progresiva sin descanso entre
+  escalones. Ej: 1, 2, 3... 10. Puede ser ascendente, descendente o de ida y vuelta.
+- Pirámide :: Ladder que sube y luego baja. Ej: 2-4-6-8-6-4-2.
+- EMOM :: "Every Minute On the Minute" — haces las reps al inicio de cada minuto y
+  descansas el resto del minuto. Ej: 5 snatches EMOM x10 = 5 reps cada minuto durante 10 min.
+- Ronda (round) :: Una pasada completa por la secuencia del complejo.
+- Serie (set) :: Un grupo de reps seguidas de un ejercicio, seguido de descanso.
+- Reps :: Repeticiones de un ejercicio.
+- Fallo técnico :: Punto en que la técnica empieza a romperse (rep lenta, compensación).
+  El programa pide trabajar dentro de 2-3 reps de ese punto.
+- Unilateral :: Ejercicio con un solo lado/brazo a la vez. Con 1 KB es lo habitual.
+- Rack :: Posición con la KB apoyada en el antebrazo a la altura del pecho/hombro.
+- Goblet :: KB sujeta con ambas manos por las "cuernas", pegada al pecho.
+- Swing (ruso/americano) :: Balanceo de cadera con la KB. Ruso = hasta el pecho; americano
+  = por encima de la cabeza.
+- Clean :: Subir la KB desde el suelo al rack en un solo movimiento.
+- Snatch :: Subir la KB del suelo a por encima de la cabeza en un solo movimiento.
+- High pull :: Tirón alto de la KB hasta la altura del pecho/hombro.
+- Thruster :: Front squat seguido de press en un movimiento continuo.
+- Front squat / racked squat :: Sentadilla con la KB en posición de rack.
+- Turkish get-up (TGU) :: Levantarse del suelo tumbado hasta de pie sosteniendo la KB
+  arriba, pasando por varias posiciones.
+- Windmill :: Inclinación lateral con la KB sostenida arriba.
+- See-saw press :: Press alternado (una KB sube mientras la otra baja).
+- Squat thrust :: Burpee sin flexión, solo sentadilla + patada atrás.
+- Farmer's carry / loaded carry :: Caminar cargando la(s) KB.
+- De-load :: Semana de descarga; se reduce el volumen a la mitad.
+- EPOC / afterburn :: Consumo de oxígeno post-ejercicio; el metabolismo sigue elevado
+  hasta ~72 h tras una sesión de conditioning intenso.
+- Conditioning / metabolic conditioning :: Entrenamiento para mejorar el sistema
+  cardiovascular y quemar grasa: complejos, sprints, circuitos.
