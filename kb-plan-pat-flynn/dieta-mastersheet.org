@@ -1,0 +1,161 @@
+#+TITLE: Dieta para pérdida de grasa — basada en mastersheet.csv (97 kg → 90 kg)
+#+FILETAGS: :nutricion:fatloss:mastersheet:
+#+STARTUP: overview
+
+* Datos y objetivo
+- Peso actual: 97 kg. Objetivo: 90 kg (−7 kg).
+- Ritmo: 0.6–0.8 kg/semana (9–12 semanas).
+- Supuestos: hombre, 30–45 años, 3 fuerza + acondicionamiento + caminata diaria.
+- Todos los alimentos y macros provienen de mastersheet.csv (valores por 100 g salvo indicado).
+
+* Reglas
+- Proteína fija: ~170–180 g/día (nunca la bajes).
+- Grasa: 55–65 g/día (no menos).
+- Carbos: 180–215 g (más alrededor del entreno).
+- Fibra: 30–40 g (verduras, avena, chía, legumbres).
+- Agua: 3–4 L/día.
+- Sin comida nocturna: el queso cottage se integra en la merienda.
+- Días entreno: ~2.150 kcal. Días descanso: ~2.000 kcal.
+- No bajes de 2.000 kcal sin supervisión.
+
+* Macros por día
+| Nutriente | Entreno | Descanso |
+|-----------+---------+----------|
+| Proteína  | 175 g   | 170 g    |
+| Carbos    | 216 g   | 194 g    |
+| Grasa     | 64 g    | 58 g     |
+| kcal      | 2.150   | 2.000    |
+
+* Día de entrenamiento — ~2.150 kcal / ~176 g P
+| Comida | Alimentos (mastersheet) | P | C | G | kcal |
+|--------+-------------------------+---+---+---+------|
+| Desayuno | 2 huevos (110 g) + 40 g avena + 100 g banana + 200 g leche +proteínas | 32.5 | 56.6 | 13.9 | 495 |
+| Almuerzo | 200 g pollo pechuga + 70 g arroz (seco) + 200 g calabacín + 100 g tomate + 10 g aceite oliva | 51.9 | 65.2 | 13.9 | 593 |
+| Merienda | 25 g proteína en polvo + 100 g banana + 10 g semillas + 200 g queso cottage | 52.2 | 28.7 | 13.3 | 446 |
+| Cena | 180 g carne picada vacuno + 200 g batata + 200 g repollo | 36.4 | 65.4 | 23.0 | 615 |
+| *Total* | | *173.0* | *215.9* | *64.1* | *2.149* |
+
+* Día de descanso — ~2.000 kcal / ~170 g P
+| Comida | Alimentos (mastersheet) | P | C | G | kcal |
+|--------+-------------------------+---+---+---+------|
+| Desayuno | 2 huevos (110 g) + 30 g avena + 100 g banana + 200 g leche +proteínas | 31.1 | 50.7 | 13.2 | 460 |
+| Almuerzo | 200 g pollo pechuga + 50 g arroz (seco) + 200 g calabacín + 100 g tomate + 5 g aceite oliva | 50.6 | 49.6 | 9.1 | 483 |
+| Merienda | 25 g proteína en polvo + 100 g banana + 10 g semillas + 200 g queso cottage | 52.2 | 28.7 | 13.3 | 446 |
+| Cena | 180 g carne picada vacuno + 200 g batata + 200 g repollo | 36.4 | 65.4 | 23.0 | 615 |
+| *Total* | | *170.3* | *194.4* | *58.6* | *2.004* |
+
+* Alimentos recomendados del mastersheet (por 100 g)
+** Proteínas magras (priorizar)
+| Alimento | P | C | G | kcal | Tipo |
+|----------+---+---+---+------+------|
+| Pollo Pechuga | 22.0 | 0 | 1.8 | 104.2 | Non Veg |
+| Atún enlatado | 21.0 | 0.9 | 1.2 | 98.4 | Non Veg |
+| Clara de huevo | 11.0 | 0.5 | 0.5 | 50.5 | |
+| Contramuslo sin piel | 19.0 | 0 | 5.9 | 129.0 | |
+| Mixto contramuslo+pechuga | 20.8 | 0 | 3.4 | 114.0 | |
+| Pollo Muslo | 19.0 | 1.6 | 4.9 | 126.5 | |
+| Lomo de Cerdo | 18.0 | 0 | 8.9 | 152.1 | Non Veg |
+| Carne Picada Vacuno Mercadona | 17.0 | 3.0 | 12.0 | 188.0 | |
+| Carne Picada | 19.0 | 0.5 | 14.0 | 204.0 | |
+| Queso Cottage | 14.0 | 1.7 | 4.0 | 98.8 | |
+| Queso fresco batido | 8.0 | 3.5 | 0.1 | 46.9 | |
+| Leche +Proteínas desnatadas | 6.0 | 4.6 | 0.2 | 44.2 | |
+| Proteína en polvo | 83.0 | 3.4 | 1.2 | 356.4 | Vegan |
+| Alubias rojas | 6.3 | 11.5 | 0.4 | 75.0 | |
+| Lentejas cocidas Hacendado | 8.2 | 10.7 | 0.4 | 79.2 | Vegan |
+| Huevo (55 g/unidad) | 12.55 | 0.73 | 9.45 | 138.18 | |
+
+** Carbos (medir porción)
+| Alimento | P | C | G | kcal | Nota |
+|----------+---+---+---+------+------|
+| Arroz | 6.5 | 78.0 | 0.8 | 345.2 | 70 g seco ≈ 200 g cocido |
+| Avena | 14.0 | 59.0 | 7.0 | 355.0 | Vegan |
+| Batata | 1.61 | 24.19 | 0.6 | 109.0 | |
+| Banana | 1.1 | 23.0 | 0.3 | 99.1 | |
+| Tortilla Integral (36 g) | 9.17 | 41.67 | 5.83 | 255.83 | por 100 g; 1 ud ≈ 92 kcal |
+| Rebanada de pan | 8.7 | 41.0 | 3.8 | 233.0 | |
+| Maíz en lata | 2.6 | 9.3 | 2.3 | 68.0 | |
+| Cereal Mix 0 % | 9.4 | 74.8 | 2.7 | 372.3 | fibra 5.6 |
+
+** Verduras (libres, alto volumen)
+| Alimento | P | C | G | kcal |
+|----------+---+---+---+------|
+| Calabacín | 1.21 | 3.35 | 0.18 | 19.86 |
+| Tomate | 0.9 | 3.9 | 0.2 | 21.0 |
+| Tomate triturado | 1.1 | 3.8 | 0 | 20.0 |
+| Repollo | 1.3 | 5.8 | 0.1 | 29.3 |
+| Zanahoria | 0.9 | 9.3 | 0.2 | 42.6 |
+| Cebolla | 1.1 | 9.3 | 0.1 | 42.5 |
+| Pimentón | 0.8 | 6.68 | 0.41 | 33.61 |
+
+** Grasas (medir con cuchara/cuchara)
+| Alimento | P | C | G | kcal | Nota |
+|----------+---+---+---+------+------|
+| Aceite de oliva | 0 | 0 | 91.4 | 822.6 | 10 g = 9.1 g grasa |
+| Aguacate | 2.0 | 8.5 | 14.7 | 174.3 | ¼ unidad ≈ 40 g |
+| Mantequilla de maní | 30.0 | 12.0 | 47.0 | 591.0 | 15 g = 90 kcal |
+| Semillas | 21.0 | 14.0 | 47.0 | 589.0 | 10 g = 59 kcal |
+| Pipas de calabaza | 38.0 | 2.0 | 44.0 | 568.0 | 10 g |
+| Chía | 22.0 | 2.6 | 34.0 | 464.4 | fibra 30 g/100 g |
+
+** Condimentos sin calorías
+Sal, pimienta, vinagre de manzana, tomillo, ajo, mostaza Dijon (135 kcal/100 g, usar poca), jugo de limón, eritritol, levadura, polvo de hornear, agua.
+
+* Alimentos a limitar / evitar en déficit
+- Carnes grasas: bacon (352), tocineta (349–500), salami (528), mortadela (318), chorizo/salchicha.
+- Lácteos grasos: queso cheddar (412), gouda (353), emmental (371), grana padano (393), azul (343), queso de oveja ahumado (435), queso crema (239), mantequilla (743).
+- Snacks/dulces: gotas de chocolate (500), panes de chocolate (511), cacahuates chocolate (550), cereales chocolate (389), azúcar (400), miel (334), sirope agave (334).
+- Harinas/panes refinados: harina todo uso (344), maicena (366), pasta (360), fideos (340), pan hamburguesa (263).
+- Grasas concentradas: aceite (medir), mantequilla de maní/semillas (medir porción).
+
+* Sustituciones (solo mastersheet)
+- Sin pollo → contramuslo, mixto, lomo de cerdo, atún, carne picada vacuno, huevos, proteína en polvo.
+- Sin arroz → batata, tortilla integral, rebanada de pan, maíz en lata, avena.
+- Sin carne picada → atún + 5 g aceite, o pollo + 10 g semillas.
+- Sin queso cottage → queso fresco batido, leche +proteínas, huevos.
+- Legumbres disponibles: alubias rojas, lentejas cocidas Hacendado (combina con arroz).
+- Sin semillas → aguacate, aceite de oliva, chía.
+- Verduras: calabacín, tomate, repollo, zanahoria, cebolla, pimentón (intercambiables).
+
+* Lista semanal (5 entreno + 2 descanso)
+| Ingrediente | Cantidad |
+|-------------+----------|
+| Huevos | 14 unidades (≈770 g) |
+| Leche +Proteínas desnatadas | 1.400 g |
+| Avena | 260 g |
+| Banana | 700 g (5–6 ud) |
+| Pollo Pechuga | 2.000 g |
+| Arroz (seco) | 455 g |
+| Calabacín | 2.800 g |
+| Tomate | 1.400 g |
+| Aceite de oliva | 87.5 g |
+| Proteína en polvo | 175 g (7 tomas de 25 g) |
+| Semillas | 70 g |
+| Carne picada vacuno | 1.260 g |
+| Batata | 2.800 g |
+| Repollo | 2.800 g |
+| Queso cottage | 1.400 g |
+
+* Regla del plato
+- ½ verduras.
+- ¼ proteína (1–2 palmas).
+- ¼ carbos (1 mano ahuecada).
+- 1 pulgar de grasa.
+- Días 2.000 kcal: menos carbos y grasa; misma proteína.
+
+* Progresión
+- Semanas 1–2: 2.150 / 2.000 kcal.
+- Semanas 3–8: igual.
+- Semanas 9–12: si hay estancamiento, 2.050–2.150 kcal.
+- Si pierdes >1 kg/sem o baja la fuerza: +150–200 kcal.
+- Si no bajas en 2 semanas: −100–150 kcal o +2.000 pasos/día.
+- No quites proteína para bajar calorías.
+
+* Seguridad
+- Información general, no consejo médico.
+- Si tienes diabetes, hipertensión, enfermedad renal, medicación o historial de trastorno alimentario, consulta con un médico o dietista.
+- Fatiga extrema, mareos, insomnio o pérdida de fuerza sostenida: sube calorías y revisa descanso.
+
+* Archivos relacionados
+- [[file:dieta-perder-grasa.org][Dieta para pérdida de grasa (referencia)]]
+- [[file:mastersheet.csv][Mastersheet de macros (productos)]]

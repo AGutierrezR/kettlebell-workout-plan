@@ -30,6 +30,39 @@
   - En días separados.
 - Caminata diaria de 20-60 min (ritmo rápido).
 
+* Estructura de la sesión (orden de ejecución)
+| Orden | Ejercicio      | Series x Reps (sem 1-2) | Notas                        |
+|-------+----------------+-------------------------+------------------------------|
+|     1 | Squat          | 3 x 10                  | Compuesto principal          |
+|     2 | Press          | 3 x 10                  |                              |
+|     3 | Push Up        | 2 x max                 | Siempre a máximas reps       |
+|     4 | Hinge          | 3 x 10                  |                              |
+|     5 | Pull           | 3 x 10                  |                              |
+|     6 | Curl           | 3 x 10                  |                              |
+|     7 | Abs (opcional) | 2 x 5-10 / 2 x 30 s     | Ver entrenamiento-fuerza.org |
+
+* Estructura semanal — 3x fuerza (L/Mi/V)
+| Día | Sesión                        | Notas                  |
+|-----+-------------------------------+------------------------|
+| Lun | Fuerza Bare Flynnimum         | + Abs opcional         |
+| Mar | Acondicionamiento / movilidad | Complejo KB o caminata |
+| Mié | Fuerza Bare Flynnimum         |                        |
+| Jue | Sprints / intervalos          |                        |
+| Vie | Fuerza Bare Flynnimum         |                        |
+| Sáb | Caminata larga / deporte      | Opcional               |
+| Dom | Descanso / caminata suave     |                        |
+
+* Estructura semanal — 2x fuerza (L/J)
+| Día | Sesión                | Notas                |
+|-----+-----------------------+----------------------|
+| Lun | Fuerza Bare Flynnimum |                      |
+| Mar | Complejo KB           | Opción A             |
+| Mié | Caminata / movilidad  |                      |
+| Jue | Fuerza Bare Flynnimum |                      |
+| Vie | Caminata / movilidad  |                      |
+| Sáb | Sprints / intervalos  | Fin de semana activo |
+| Dom | Descanso              |                      |
+
 * Archivos
 - [[file:entrenamiento-fuerza.org][Entrenamiento de fuerza (semanas 1-8)]]
 - [[file:condicionamiento.org][Acondicionamiento / Conditioning]]
@@ -63,6 +96,7 @@
 3. 2-3 series ligeras del ejercicio del día para preparar.
 
 * Nutrición (acompañante)
+- [[file:dieta-perder-grasa.org][Dieta para pérdida de grasa (97 kg → 90 kg)]]
 - Ganar fuerza/músculo: superávit de 300-500 kcal/día.
 - Pérdida de grasa / recomposición:
   - 5 días consecutivos con 10-20% por debajo del mantenimiento.
