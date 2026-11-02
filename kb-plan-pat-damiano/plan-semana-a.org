@@ -1,0 +1,42 @@
+#+TITLE: Semana A — Plan base — Pat Damiano
+#+AUTHOR: Personal
+#+FILETAGS: :kettlebell:fitness:pat-damiano:
+#+STARTUP: overview
+#+LANGUAGE: es
+
+* Semana A (Días 1-4) — base
+
+** Día 1
+| Bloque | Ejercicio                  | Series x Reps |
+|--------+----------------------------+---------------|
+| Main   | Snatch (1 KB) 5/side       |    5 x 5/side |
+| Acc 1  | Half-kneeling press 6/side |             4 |
+| Acc 2  | Single-arm row 10/side     |             4 |
+| Acc 3  | Goblet squat 15            |             4 |
+- Descanso main: 1-1.5 min; acc: ~1 min entre rondas.
+
+** Día 2 — DCD
+| Bloque   | Ejercicio                                        | Series |
+|----------+--------------------------------------------------+--------|
+| C1       | Hercules: 3 swing + 3 clean + 3 push press /side |      5 |
+| Abs      | Sit-ups 20                                       |      5 |
+| C2       | Gimli: 5 swing 2H + 4 high pull + 3 goblet squat |      5 |
+| Abs      | V-ups 15                                         |      5 |
+| Finisher | Curls 15 + OH tricep ext 15                      |      4 |
+
+** Día 3
+| Bloque             | Ejercicio               | Series x Reps |
+|--------------------+-------------------------+---------------|
+| Main               | Turkish get-up 1/side   |             5 |
+| EMOM 24 (6 rondas) | Min1: swings 15         |               |
+|                    | Min2: push press 5/side |               |
+|                    | Min3: farmer carry 45 s |               |
+|                    | Min4: cardio 45 s       |               |
+
+** Día 4
+| Bloque | Ejercicio                                   | Series x Reps |
+|--------+---------------------------------------------+---------------|
+| Main   | Clean & press 5/side                        |    5 x 5/side |
+| Acc 1  | Max push-ups o dips                         |             4 |
+| Acc 2  | Lateral lunge 5/side (profundidad)          |             4 |
+| Acc 3  | Max chin-ups o 5 single-arm row pesado/side |             4 |

@@ -1,0 +1,41 @@
+#+TITLE: Semana B — Plan complementario — Pat Damiano
+#+AUTHOR: Personal
+#+FILETAGS: :kettlebell:fitness:pat-damiano:
+#+STARTUP: overview
+#+LANGUAGE: es
+
+* Semana B (Días 1-4) — complementaria
+
+** Día 1
+| Bloque | Ejercicio               | Series x Reps |
+|--------+-------------------------+---------------|
+| Main   | Double KB front squat 5 |         5 x 5 |
+| Acc 1  | Floor press 8/side      |             4 |
+| Acc 2  | Gorilla row 8/side      |             4 |
+| Acc 3  | Reverse lunge 10/side   |             4 |
+
+** Día 2 — DCD
+| Bloque   | Ejercicio                                         | Series |
+|----------+---------------------------------------------------+--------|
+| C1       | (lower) 5 swing 2H + 5 goblet squat + 5 high pull |      5 |
+| Abs      | Sit-ups 20                                        |      5 |
+| C2       | (upper) 3 clean + 3 push press + 3 row /side      |      5 |
+| Abs      | V-ups 15                                          |      5 |
+| Finisher | Curls 15 + OH tricep ext 15                       |      4 |
+
+** Día 3
+| Bloque  | Ejercicio                   | Series x Reps |
+|---------+-----------------------------+---------------|
+| Main    | Snatch 1/side               |             5 |
+| EMOM 24 | Min1: goblet squat 10       |               |
+|         | Min2: single-arm row 8/side |               |
+|         | Min3: suitcase carry 45 s   |               |
+|         | Min4: cardio 45 s           |               |
+
+** Día 4
+| Bloque | Ejercicio                        | Series x Reps |
+|--------+----------------------------------+---------------|
+| Main   | Turkish get-up 1/side            |             5 |
+| Acc 1  | Max dips                         |             4 |
+| Acc 2  | Step-up 10/side                  |             4 |
+| Acc 3  | Max pull-ups o 5 row pesado/side |             4 |

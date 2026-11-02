@@ -1,0 +1,41 @@
+#+TITLE: Blueprint / estructura del plan — Pat Damiano
+#+AUTHOR: Personal
+#+FILETAGS: :kettlebell:fitness:pat-damiano:
+#+STARTUP: overview
+#+LANGUAGE: es
+
+* Estructura del plan (blueprint de Pat Damiano)
+
+** Concepto general
+- 4 sesiones/semana, todas full body.
+- Si solo puedes hacer 3, quita cualquiera (todas son full body).
+- Repetir 2 semanas complementarias (semana A + semana B) y progresar; válido para 4/6/8/10 semanas.
+
+** Día 1 — Fuerza: Main lift + 3 accessory superset
+- Main lift: snatch / clean & press / Turkish get-up / double KB front squat.
+  - 4-6 series, descanso 1-1.5 min.
+- Accessory superset (elegir 3 de: push, pull, legs, core):
+  - 3-5 series, descanso ~1 min entre rondas.
+
+** Día 2 — Double Complex Day (DCD) (favorito)
+- Complex 1 + ejercicio de abs, x5 series.
+- Complex 2 + ejercicio de abs, x5 series.
+- Opcional: finisher de brazos (curls + extensiones) x4.
+- Descanso 1-1.5 min entre series.
+
+** Día 3 — Fuerza + acondicionamiento: Main lift + EMOM
+- Main lift: 5 series (1/side cuenta como 1 serie en TGU).
+- EMOM 20-24 min (4 ejercicios = 6 rondas en 24 min):
+  - Min 1: piernas (swings, goblet squats...)
+  - Min 2: push (push press...)
+  - Min 3: core (carry)
+  - Min 4: cardio (run/row/ski/bike/burpees/salto)
+
+** Día 4 — Igual que Día 1
+- Main lift 4-6 series + accessory superset (push/pull/legs/core) 3-5 series.
+
+** Selección de ejercicios (plug & play)
+- Push: press (half kneeling, floor, Z), push-ups, dips, push press.
+- Pull: single-arm row, gorilla row, pull-ups/chin-ups, inverted rows.
+- Legs: goblet squat, lateral lunge, reverse lunge, step-up.
+- Core: carries (farmer/suitcase/front rack/goblet/waiter/overhead), sit-ups, V-ups.

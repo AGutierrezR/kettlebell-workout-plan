@@ -1,0 +1,17 @@
+#+TITLE: Plan Kettlebell 8 Semanas — Pat Damiano
+#+AUTHOR: Personal
+#+FILETAGS: :kettlebell:fitness:pat-damiano:
+#+STARTUP: overview
+#+LANGUAGE: es
+
+* Índice
+- [[file:video-fuente.org][Video fuente y transcripción]]
+- [[file:blueprint.org][Blueprint / estructura del plan]]
+- [[file:plan-semana-a.org][Semana A (base)]]
+- [[file:plan-semana-b.org][Semana B (complementaria)]]
+- [[file:progresion-calendario.org][Progresión, calendario 8 semanas y recomendaciones]]
+
+* Resumen
+- 4 sesiones/semana, todas full body.
+- Si solo puedes hacer 3, quita cualquiera (todas son full body).
+- Repetir 2 semanas complementarias (semana A + semana B) y progresar; válido para 4/6/8/10 semanas.

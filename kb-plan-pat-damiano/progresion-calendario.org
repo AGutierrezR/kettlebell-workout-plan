@@ -1,0 +1,33 @@
+#+TITLE: Progresión, calendario 8 semanas y recomendaciones — Pat Damiano
+#+AUTHOR: Personal
+#+FILETAGS: :kettlebell:fitness:pat-damiano:
+#+STARTUP: overview
+#+LANGUAGE: es
+
+* Plan de 8 semanas
+
+** Notas de progresión
+- Semanas 1-2: volumen base (tablas abajo, "Semana A/B").
+- Semanas 3-4: +1 serie en main lifts y accessory; +2 reps en accesorios.
+- Semanas 5-6: subir peso de KB (mantener reps); mantener series de sem 3-4.
+- Semanas 7-8: pico (series máximas del rango, reps altas); semana 8 = deload (bajar 30-40% volumen).
+- Cardio: 45 s moderado-fuerte; escalar a 60 s en semanas 5-8 si se tolera.
+
+** Calendario 8 semanas
+| Semana | Bloque | Ajuste                               |
+|--------+--------+--------------------------------------|
+|      1 | A      | base                                 |
+|      2 | B      | base                                 |
+|      3 | A      | +1 serie main/acc, +2 reps acc       |
+|      4 | B      | +1 serie main/acc, +2 reps acc       |
+|      5 | A      | subir peso KB; cardio 60 s           |
+|      6 | B      | subir peso KB; cardio 60 s           |
+|      7 | A      | pico: series máximas del rango       |
+|      8 | B      | DELOAD: -30/40% volumen, peso ligero |
+
+** Recomendaciones
+- Calentamiento: movilidad 3-4 rondas (20 s) + 5-10 min cardio ligero + 2-3 series ligeras.
+- Caminata diaria 20-60 min.
+- Intensidad: 2-3 reps del fallo técnico en todas las series.
+- Si solo 3 días/semana: quitar un día (cualquiera, todas full body).
+- Descanso entre días de fuerza: no consecutivos (Lun/Mié/Vie o Mar/Jue/Sáb).
